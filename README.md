@@ -1,4 +1,4 @@
-# A018 - Template de Prática
+# Funções de Array - Template de Prática
 **Vamos utilizar esse repositório para as práticas da aula!**
 
 ## Instruções para baixar
