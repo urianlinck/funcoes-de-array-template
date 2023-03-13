@@ -4,5 +4,5 @@ const pokemons = [
   { nome: 'Charmander', tipo: 'fogo', vida: 35 },
   { nome: 'Vulpix', tipo: 'fogo', vida: 25 },
   { nome: 'Squirtle', tipo: 'água', vida: 45 },
-  { nome: 'Psyduck', tipo: 'água', vida: 25 },
+  { nome: 'Psyduck', tipo: 'água', vida: 25 }
 ]
